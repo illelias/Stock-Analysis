@@ -117,15 +117,6 @@ jupyter notebook CUS_690.ipynb
 
 ---
 
-## 🔮 Future Improvements  
-
-- LSTM / GRU models  
-- Hyperparameter tuning  
-- Backtesting strategies  
-- Dashboard deployment  
-
----
-
 ## 👤 Author  
 
 Elias Illescas  
