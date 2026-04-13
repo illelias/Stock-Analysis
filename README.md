@@ -116,11 +116,3 @@ jupyter notebook CUS_690.ipynb
 - Hybrid approaches improve forecasting  
 
 ---
-
-## 👤 Author  
-
-Elias Illescas  
-M.S. Data Science – St. John’s University  
-U.S. Navy Veteran  
-
----
