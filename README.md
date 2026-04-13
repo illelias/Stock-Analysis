@@ -1,11 +1,5 @@
 # 📈 AAPL Stock Analysis & Forecasting  
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-orange)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-Time%20Series-red)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
-
 ---
 
 ## 📌 Overview  
@@ -139,5 +133,3 @@ M.S. Data Science – St. John’s University
 U.S. Navy Veteran  
 
 ---
-
-## ⭐ If you found this useful, consider giving the repo a star!
